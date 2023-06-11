@@ -1,0 +1,28 @@
+.list-element {
+  list-style-type: none;
+  background-color: #ffffff;
+  margin: 5px 20px 10px 5px;
+}
+
+.image {
+  width: 650px;
+  height: 450px;
+}
+
+.name {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  color: #475569;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.description {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #64748b;
+  width: 600px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
